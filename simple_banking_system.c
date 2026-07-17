@@ -48,6 +48,6 @@ int main()
             printf("\nEXIT\n");
         }
     }
-    while(x!=4);
+    while(x!=5);
     return 0;
 }
