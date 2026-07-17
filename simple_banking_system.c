@@ -2,7 +2,7 @@
 
 int main()
 {
-    char transc[30[50]];
+    char transc[30][50];
     int x,j=0,i;
     float balance=0,amount=0;
 
